@@ -9,9 +9,4 @@
 - spring包和Spring MVC包
 
 ##开发工具
-- MyEclipse+MySQL
-
- 
- 
-具体参见我的博客：http://www.cnblogs.com/bywallance/p/5978583.html  
-联系交流，邮箱地址：bywallance@163.com
+- Eclipse+MySQL
